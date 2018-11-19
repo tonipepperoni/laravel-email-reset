@@ -1,17 +1,17 @@
 {
-    "name": "kaoken/laravel-email-reset",
+    "name": "tonipepperoni/laravel-email-reset",
     "description": "Request to change the e-mail address of the Auth user, change it after moving to the specified URL of the confirmation e-mail.",
     "keywords": ["laravel", "laravel-email-reset"],
     "license": "MIT",
-    "homepage": "https://github.com/kaoken/laravel-email-reset",
+    "homepage": "https://github.com/tonipepperoni/laravel-email-reset",
     "require": {
         "php": ">=7.0.0",
-        "laravel/framework": "5.5.*"
+        "laravel/framework": "5.6.*"
     },
     "authors": [
         {
             "name": "kaoken",
-            "homepage": "https://github.com/kaoken/laravel-email-reset"
+            "homepage": "https://github.com/tonipepperoni/laravel-email-reset"
         }
     ],
     "replace": {
